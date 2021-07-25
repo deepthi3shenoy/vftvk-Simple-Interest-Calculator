@@ -9,4 +9,8 @@ border-radius:25px;
 align:center
 position: relative;
 margin:auto;
+font-size: 12px;
+}
+table{
+    padding: 20px;
 }
